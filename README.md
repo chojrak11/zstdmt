@@ -1,6 +1,9 @@
 
 # Multithreading Library for [Brotli], [Lizard], [LZ4], [LZ5] and [Zstandard]
 
+## Fork
+This repo is forked from the original mcmilk's repository.
+
 ## Description
 - works with skippables frame id 0x184D2A50 (12 bytes per compressed frame)
 - brotli is supported the same way, it will encapsulate the real brotli stream
